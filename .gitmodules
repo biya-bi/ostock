@@ -1,0 +1,48 @@
+[submodule "microservices/angular-frontend"]
+	path = microservices/angular-frontend
+	url = https://github.com/biya-bi/ostock-angular-frontend.git
+[submodule "microservices/config-service"]
+	path = microservices/config-service
+	url = https://github.com/biya-bi/ostock-config-service.git
+[submodule "microservices/eureka-service"]
+	path = microservices/eureka-service
+	url = https://github.com/biya-bi/ostock-eureka-service.git
+[submodule "microservices/gateway-service"]
+	path = microservices/gateway-service
+	url = https://github.com/biya-bi/ostock-gateway-service.git
+[submodule "microservices/licensing-service"]
+	path = microservices/licensing-service
+	url = https://github.com/biya-bi/ostock-licensing-service.git
+[submodule "microservices/organization-service"]
+	path = microservices/organization-service
+	url = https://github.com/biya-bi/ostock-organization-service.git
+[submodule "configs"]
+	path = configs
+	url = https://github.com/biya-bi/ostock-configs.git
+[submodule "secrets"]
+	path = secrets
+	url = https://github.com/biya-bi/ostock-secrets.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/biya-bi/ostock-infra.git
+[submodule "charts/angular-frontend"]
+	path = charts/angular-frontend
+	url = https://github.com/biya-bi/ostock-angular-frontend-chart.git
+[submodule "charts/config-service"]
+	path = charts/config-service
+	url = https://github.com/biya-bi/ostock-config-service-chart.git
+[submodule "charts/eureka-service"]
+	path = charts/eureka-service
+	url = https://github.com/biya-bi/ostock-eureka-service-chart.git
+[submodule "charts/gateway-service"]
+	path = charts/gateway-service
+	url = https://github.com/biya-bi/ostock-gateway-service-chart.git
+[submodule "charts/licensing-service"]
+	path = charts/licensing-service
+	url = https://github.com/biya-bi/ostock-licensing-service-chart.git
+[submodule "charts/organization-service"]
+	path = charts/organization-service
+	url = https://github.com/biya-bi/ostock-organization-service-chart.git
+[submodule "libs/cross-cutting-concerns"]
+	path = libs/cross-cutting-concerns
+	url = https://github.com/biya-bi/ostock-cross-cutting-concerns.git
