@@ -1,9 +1,6 @@
 [submodule "microservices/angular-frontend"]
 	path = microservices/angular-frontend
 	url = https://github.com/biya-bi/ostock-angular-frontend.git
-[submodule "microservices/eureka-service"]
-	path = microservices/eureka-service
-	url = https://github.com/biya-bi/ostock-eureka-service.git
 [submodule "microservices/licensing-service"]
 	path = microservices/licensing-service
 	url = https://github.com/biya-bi/ostock-licensing-service.git
