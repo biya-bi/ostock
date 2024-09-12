@@ -1,9 +1,9 @@
 [submodule "microservices/angular-frontend"]
 	path = microservices/angular-frontend
 	url = https://github.com/biya-bi/ostock-angular-frontend.git
-[submodule "microservices/licensing-service"]
-	path = microservices/licensing-service
-	url = https://github.com/biya-bi/ostock-licensing-service.git
+[submodule "microservices/license-service"]
+	path = microservices/license-service
+	url = https://github.com/biya-bi/ostock-license-service.git
 [submodule "microservices/organization-service"]
 	path = microservices/organization-service
 	url = https://github.com/biya-bi/ostock-organization-service.git
@@ -28,9 +28,9 @@
 [submodule "charts/gateway-service"]
 	path = charts/gateway-service
 	url = https://github.com/biya-bi/ostock-gateway-service-chart.git
-[submodule "charts/licensing-service"]
-	path = charts/licensing-service
-	url = https://github.com/biya-bi/ostock-licensing-service-chart.git
+[submodule "charts/license-service"]
+	path = charts/license-service
+	url = https://github.com/biya-bi/ostock-license-service-chart.git
 [submodule "charts/organization-service"]
 	path = charts/organization-service
 	url = https://github.com/biya-bi/ostock-organization-service-chart.git
