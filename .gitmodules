@@ -40,3 +40,6 @@
 [submodule "libs/orm"]
 	path = libs/orm
 	url = https://github.com/biya-bi/ostock-orm.git
+[submodule "libs/dto"]
+	path = libs/dto
+	url = https://github.com/biya-bi/ostock-dto.git
