@@ -37,3 +37,6 @@
 [submodule "libs/cross-cutting-concerns"]
 	path = libs/cross-cutting-concerns
 	url = https://github.com/biya-bi/ostock-cross-cutting-concerns.git
+[submodule "libs/orm"]
+	path = libs/orm
+	url = https://github.com/biya-bi/ostock-orm.git
